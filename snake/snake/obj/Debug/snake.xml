@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+snake
+</name>
+</assembly>
+<members>
+<member name="T:snake.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:snake.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:snake.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:snake.My.Resources.Resources.hot_choclate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:snake.My.Resources.Resources.New_Piskel__27_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:snake.My.Resources.Resources.New_Piskel__28_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:snake.My.Resources.Resources.New_Piskel__29_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:snake.BlackBox.WriteTxt(System.String,System.String,System.Boolean)">
+ <summary>
+ Writes text to a File.
+ </summary>
+ <param name="path">filePath</param>
+ <param name="text">content</param>
+ <param name="append">append</param>
+</member>
+</members>
+</doc>
